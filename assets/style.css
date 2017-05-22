@@ -1,0 +1,152 @@
+
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background-image: url("../images/concrete_seamless.png");
+}
+
+header {
+  background: #333;
+}
+
+h1 {
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  background-color: #4aaaa5;
+  text-align: left;
+  padding-left: 20px;
+  color: white;
+}
+
+h2 {
+    color: #4aaaa5;
+    background: white;
+    font-size: 28px;
+}
+
+
+
+h3 {
+    color: #4aaaa5;
+    background: white;
+    font: georgia;
+    size: 16px;
+    text-align: center;
+    padding-top: 5px;
+}
+/*
+a {
+  color: #d21034;
+}*/
+
+hr { 
+    /*display: block;*/
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2.5px;
+    border-color: #cccccc;
+} 
+
+p {
+  color: #777777;
+  font: arial;
+}
+
+
+.panel-footer {
+  font-size: 8px;
+  color: #eee;
+  background-color: #666666;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  height: 50px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+      border-top: solid;
+      border-width: 4px;
+      border-color: #4aaaa5;
+}
+
+/*.navbar {
+  color: white;
+}*/
+.navbar-brand {
+    background-color: #4aaaa5;
+    font-size: 28px;
+    color: white;
+}
+
+.navbar-default .navbar-brand{
+  color:white;
+}
+
+.col-md-8 {
+  width: 60%;
+  background-color: #ffffff;
+  padding: 15px;
+  border-style: double;
+  border-width: .5px;
+  border-color: #cccccc;
+  font:arial;
+}
+
+
+.panel-title {
+  color: #4aaaa5;
+  background: white;Í
+  font: georgia;
+  size: 16px;
+  text-align: center;
+  padding-top: 5px;
+}
+
+          #github { 
+            width: 35px;
+            height: 35px;
+            float: left;
+            /*padding-left: 30px;*/
+            /*margin-left: 20px;*/
+          }
+
+          #linkedin { 
+            width: 35px;
+            height: 35px;
+            float: left;
+            margin-right: 5px;
+            margin-left: 5px;
+          }
+
+          #stackoverflow { 
+            width: 35px;
+            height: 35px;
+            float: left;
+          }
+
+.btn-default {
+  background-color: #4aaaa5;
+  color: white;
+  font-family: Georgia;
+}
+
+.form-group {
+  border:none;
+  font-family: Georgia;
+  font-size: 18px;
+}
+
+.navbar {
+    border: 2px solid #e7e7e7;
+}
